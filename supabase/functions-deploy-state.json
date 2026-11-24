@@ -1,0 +1,21 @@
+{
+  "projectId": "72815741",
+  "functions": {
+    "admin-users": {
+      "hasChanged": false,
+      "hash": "e3a33ee33059f855293d668cd317b4e47b569f1a17682b59948f7ac65acf5952"
+    },
+    "enviar-notificacoes": {
+      "hasChanged": false,
+      "hash": "00d0455b8c835358997ccf54df6d23553a5a4f0e7f203ecc85020b1aecb0aaaa"
+    },
+    "registrar-login": {
+      "hasChanged": false,
+      "hash": "9ac38e75cdcc23d087036c73cb11640bc7e78c3ae667c7322f260b67a6478870"
+    },
+    "links-uteis-upload": {
+      "hasChanged": false,
+      "hash": "1f6c031925a394b7e97bda8ba9f1600c1bc150c0cffc6609e6925ed435fe6418"
+    }
+  }
+}
